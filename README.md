@@ -1,20 +1,22 @@
-# Notes Keeper
+# 📝 Notes Keeper
 
-## Features
-- Create, edit, and delete notes
-- Organize notes using categories
-- Search for specific notes
-- User-friendly interface
-- Use the app to create and manage your notes.
+### Link: [https://akashb2003.github.io/notes-keeper/](https://akashb2003.github.io/notes-keeper/)
 
-## Technologies Used
-- React
-- React Router
-- Material-UI
-- CSS
+## Features ✨
+- Create, edit, and delete notes ✏️
+- Organize notes using categories 🗂️
+- Search for specific notes 🔍
+- User-friendly interface 👤
+- Use the app to create and manage your notes 📚
 
-## Contributing
+## Technologies Used 🚀
+- React ⚛️
+- React Router 🚦
+- Material-UI 🎨
+- CSS 🎉
+
+## Contributing 🤝
 Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
 
-## Acknowledgements
-Special thanks to Angela Yu (Udemy) for teaching me react and ChatGPT for fixing the bugs
+## Acknowledgements 🙌
+Special thanks to Angela Yu (Udemy) for teaching me React and ChatGPT for fixing the bugs 🦾
